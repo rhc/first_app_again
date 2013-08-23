@@ -1,4 +1,4 @@
 = Ruby on Rails Tutorial: first application
 
 This is the first application for the http://railstutorial.org[Ruby on Rails Tutorial]
-by http://michaelhartl.com[Michael Hartl]
+by http://michaelhartl.com[Michael Hartl].
